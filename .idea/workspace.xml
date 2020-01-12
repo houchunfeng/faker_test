@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="091636c1-2627-4f7a-8ce4-c493f10bfd89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Faker_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faker_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faker_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faker_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/说明" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,9 +79,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="125" />
-    <option name="y" value="31" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="101" />
+    <option name="y" value="30" />
     <option name="width" value="1209" />
     <option name="height" value="669" />
   </component>
@@ -222,12 +215,12 @@
       <option name="presentableId" value="Default" />
       <updated>1578559299956</updated>
       <workItem from="1578559301430" duration="5824000" />
-      <workItem from="1578617376920" duration="3068000" />
+      <workItem from="1578617376920" duration="4608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8892000" />
+    <option name="totallyTimeSpent" value="10432000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -239,7 +232,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="125" y="31" width="1209" height="669" extended-state="1" />
+    <frame x="-36" y="26" width="1209" height="669" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1697128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
