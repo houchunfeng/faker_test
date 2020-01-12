@@ -1,0 +1,36 @@
+python中生成一些比较真实一点的测试数据
+使用的是python中的Faker的库
+使用步骤：
+1.安装：pip install Faker
+2.验证Faker是否安装成功：pip list查看存在Faker即成功
+2.创建一个.py文件
+使用实例化的方式：
+3.输入以下内容（单个测试数据）：
+    from faker import Faker
+
+    fa = Faker("zh_CN")
+    print('name:', fa.name())
+    print('job:', fa.job())
+    print('address:', fa.address())
+    print('text:', fa.text())
+4.右键直接运行或者在命令行输入命令：python faker_01.py
+
+
+支持的语言(实例化的第一个参数)
+
+简体中文：zh_CN
+繁体中文：zh_TW
+美国英文：en_US
+英国英文：en_GB
+德文：de_DE
+日文：ja_JP
+韩文：ko_KR
+法文：fr_FR
+
+具体使用参考网址：
+https://faker.readthedocs.io/en/master/locales/zh_CN.html
+
+特殊说明：
+在中文(zh_CN)中的方法，district()#获取区   province()#获取省的方法
+在有些包里是没有的--日文包里就是没有的（具体的要根据国家的文化决定）
+
